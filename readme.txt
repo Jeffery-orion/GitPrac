@@ -4,4 +4,6 @@ Git is free software under the GPL.
 
 Git tracks changes of files
 
-version four
+This is a branch test
+
+version five
